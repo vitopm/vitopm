@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  Hi, I’m @vitopm
 + 👀 I’m currently IN LOVE in website development
-+ 🌱 I’m stil learning HTML and CSS
++ 🌱 I’m still learning HTML and CSS
 
 Here I have some of my early works, go take a peek! 👇
 <!---
